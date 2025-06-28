@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "809738335591",
+    "project_id": "eventlift-42538",
+    "storage_bucket": "eventlift-42538.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809738335591:android:a50d3493c7d9c6bdb7ebc2",
+        "android_client_info": {
+          "package_name": "com.example.eventlift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJIrABSZyk41-1QaPeDq06H2udQ-7QmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
